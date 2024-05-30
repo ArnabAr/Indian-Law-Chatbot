@@ -6,3 +6,4 @@ PyPDF2
 pypdf
 python-dotenv
 faiss-cpu==1.8.0
+langchain-groq==0.1.4
