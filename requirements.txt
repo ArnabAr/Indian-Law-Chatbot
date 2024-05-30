@@ -5,3 +5,4 @@ langchain_community
 PyPDF2
 pypdf
 python-dotenv
+faiss-cpu==1.8.0
