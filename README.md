@@ -13,8 +13,10 @@ conda activate venv
 pip install -r requirements.txt
 
 
-#### Create a `.env` file in the root directory and add your Pinecone credentials as follows:
+#### Create a `.env` file in the root directory and add your Langchain, GROQ credentials as follows:
 
 LANGCHAIN_API_KEY="XXXXXXXXX Your Token XXXXXXXX"
+
 LANGCHAIN_PROJECT="XXXXXXXX Your projec nameXXXX"
+
 GROQ_API_KEY=     "XXXXXXXXX Your Token XXXXXXXX"
